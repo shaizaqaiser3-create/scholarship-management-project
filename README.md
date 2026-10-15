@@ -6,3 +6,4 @@ This is a PHP-based system to manage scholarship applications.
 1. Upload these files to your local server (like XAMPP).
 2. Import the database.
 3. Open `index.php` in your browser.
+ link http://localhost/scholarship_portal/student/dashboard.php
